@@ -1,7 +1,7 @@
  const yesBtn = document.querySelector("#yesBtn");
 
  yesBtn.addEventListener("click", function() {
-   alert("Por que me dejaste de hablar y me elminaste de todo lado;,(?")
+   alert("Por que me dejaste de hablar y me eliminaste de todo lado;,(?")
  });
 
  const noBtn = document.querySelector("#noBtn");
