@@ -1,0 +1,33 @@
+*{
+    margin:  0;
+}
+.contenedor{
+
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+ }
+ p{
+   font-size: xx-largo;
+   padding: 15%;
+   font-size: 40px;
+ }
+button{
+  font-size: xx-largo;
+  padding: 1.00em;
+}
+#yesBtn{
+  transform: translate(-100%,0);
+   font-size: 25px;
+}
+#noBtn{
+  position: absolute;
+  font-size: 25px;
+}
+body{
+   background-image: url(qwe.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+}
